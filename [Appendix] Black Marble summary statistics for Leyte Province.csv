@@ -1,0 +1,45 @@
+﻿,,,,,Local,,,5 X 5 km^2 Extent,,,
+,LGU,Category,Population,Revenue,Min,Max,Std. Dev.,Min,Max,Mean,Std. Dev.
+42,Tacloban,First Class City,"251,881","1,370,000,000",1,740,74.21,5.49,109.89,48.85,25.57
+0,Abuyog,First Class Municipality,"59,571","34,650,820.90",1,142,15.50,0.53,16.09,7.01,2.61
+1,Alang-Alang,Second Class Municipality,"60,052","18,689,516.97",1,88,5.98,0.08,12.02,3.52,1.72
+2,Albuera,Third Class Municipality,"50,338","33,299,762.55",1,158,7.44,0.07,11.22,3.53,1.75
+3,Babatngon,Fourth Class Municipality,"27,797",NDA,1,62,3.00,0.36,10.16,2.30,1.10
+4,Barugo,Fourth Class Municipality,"32,750","8,232,125.67",1,44,3.09,0.19,7.10,1.88,0.98
+5,Bato ,Fourth Class Municipality,"35,610","25,861,732.55",1,136,10.80,0.99,13.48,4.89,1.51
+6,Baybay,First Class City,"117,661","105,417,183.16",1,226,22.10,0.78,20.14,10.92,2.81
+7,Burauen,First Class Municipality,"56,919","245,882,604.83",1,134,8.27,0.37,11.41,4.41,1.53
+8,Calubian,Fourth Class Municipality,"31,228","6,827,520.54",1,56,1.57,0.02,7.32,1.86,0.97
+9,Capoocan,Fourth Class Municipality,"33,617","3,803,540.64",1,30,2.23,0.46,6.92,1.78,0.88
+10,Carigara,Second Class Municipality,"56,346","196,667,407.92",1,136,8.82,0.65,13.96,4.48,1.99
+11,Dagami,Third Class Municipality,"35,147","6,081,859.01",1,21,1.68,0.04,7.95,2.07,1.11
+12,Dulag,Third Class Municipality,"47,300","7,094,698.85",1,66,4.93,0.74,9.09,2.93,1.15
+13,Hilongos,Second Class Municipality,"63,431","26,535,620.06",1,116,11.49,0.97,15.66,6.43,1.91
+14,Hindang,Fifth Class Municipality,"20,924","18,571,244.29",1,101,5.99,0.05,9.90,3.18,1.06
+15,Inopacan,Fourth Class Municipality,"20,550","10,307,694.25",1,51,4.68,0.64,8.66,2.68,1.06
+16,Isabel,First Class Municipality,"46,915","40,495,502.65",1,235,20.41,1.9,23.22,10.46,4.26
+17,Jaro,Third Class Municipality,"43,199","168,306,011.35",1,60,2.46,0.23,8.72,2.50,1.26
+18,Javier,Fourth Class Municipality,"25,379","7,250,583.32",1,30,1.92,0.02,10.19,2.27,1.17
+19,Julita,Fifth Class Municipality,"15,114","86,846,806.18",1,45,2.34,0.06,9.67,2.51,1.25
+20,Kananga,First Class Municipality,"56,575","272,563,238.92",1,109,6.59,0.19,10.51,3.61,2.23
+21,La Paz ,Fifth Class Municipality,"19,998","7,431,971.45",1,60,2.62,0.05,10.24,2.47,1.27
+22,Leyte,Fourth Class Municipality,"40,639","6,061,750.18",1,71,2.63,0.5,8.96,2.40,1.15
+23,Macarthur,Fifth Class Municipality,"21,211","243,000.00",1,35,2.01,0.32,7.04,2.23,1.04
+24,Mahaplag,Fourth Class Municipality,"27,823","4,820,029.82",1,56,2.08,0.32,9.49,2.48,1.21
+25,Matag-Ob,Fourth Class Municipality,"19,755","3,695,852.92",1,69,2.72,0.03,8.27,2.40,1.17
+26,Matalom,Third Class Municipality,"33,121","14,828,164.20",1,59,3.52,0.44,6.88,2.14,0.82
+27,Mayorga,Fifth Class Municipality,"19,000","82,060,579.11",1,44,2.26,0.35,9.29,2.58,1.22
+28,Merida,Fifth Class Municipality,"29,863","125,533,065.17",1,45,3.12,0.56,6.88,2.02,0.85
+29,Ormoc,First Class City,"235,139","446,021,106.54",1,301,39.61,2.82,43.31,26.36,7.63
+30,Palo,Third Class Municipality,"78,106","39,464,382.06",1,252,23.22,2.25,35.16,15.29,5.54
+31,Palompon,Second Class Municipality,"58,108","48,486,079.29",1,212,17.66,1.24,14.94,6.53,2.74
+32,Pastrana,Fifth Class Municipality,"19,317","5,120,173.22",1,75,3.82,0.01,10.87,2.91,1.51
+33,San Isidro ,Fourth Class Municipality,"31,641","12,536,919.46",1,62,3.04,0.16,8.66,2.45,1.16
+34,San Miguel ,Fourth Class Municipality,"19,420","1,965,886.22",1,49,2.98,0.26,10.23,2.61,1.44
+35,Santa Fe ,Fifth Class Municipality,"20,439","2,892,396.13",1,86,3.76,0.08,12.60,3.32,1.72
+36,Tabango,Fourth Class Municipality,"34,195","5,186,973.14",1,40,1.69,0.11,8.60,2.08,1.07
+37,Tabontabon,Fifth Class Municipality,"11,204","2,182,164.84",1,20,2.04,0.14,10.54,2.70,1.49
+38,Tanauan ,Second Class Municipality,"55,021","27,497,295.06",1,128,8.78,0.74,12.40,4.47,1.86
+39,Tolosa,Fifth Class Municipality,"20,978","7,388,825.00",1,34,2.84,0.09,8.48,2.34,1.10
+40,Tunga,Sixth Class Municipality,"9,496","3,139,821.25",1,38,2.23,0.13,9.15,2.50,1.29
+41,Villaba,Third Class Municipality,"41,891","11,680,088.81",1,51,2.80,0.34,8.25,2.08,1.02
